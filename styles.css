@@ -1,0 +1,22 @@
+body {
+  color: white;
+  background: plum ;
+  margin: 0px;
+  
+}
+
+header{
+  border: solid 2px white;
+  padding: 20px;
+  color: white;
+  font-size: 40px;
+}
+
+section{
+background: black;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
